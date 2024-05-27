@@ -45,18 +45,18 @@ CMAISE-v1.0版本数据集已经公开发布，秉承数据利用最大化原则
 
 
 ## CMAISE-v1.0的参与单位及主要研究者如下（排名不分先后）
-1.	Yucai Hong, Lifeng Xing, Zhongheng Zhang (Sir Run Run Shaw Hospital, Zhejiang University School of Medicine); 
-2.	Bin Sun (Department of emergency medicine, Binzhou Medical University Hospital);
-3.	Senjun Jin (Department of Emergency, Zhejiang Provincial People’s Hospital, People’s Hospital of Hangzhou Medical College); 
-4.	Huiheng Liu, Yujing Sun (Emergency Department, Zhongshan Hospital of Xiamen University, Xiamen, Fujian, People’s Republic of China);
-5.	Hongying Ni, Kun Chen (Department of Critical Care Medicine, Affiliated Jinhua Hospital, Zhejiang University School of Medicine); 
-6.	Lin Chen, Minfeng Tong (Department of neurosurgery, Affiliated Jinhua Hospital, Zhejiang University School of Medicine)
-7.	Jian Sun (Department of Critical Care Medicine, Lishui Center Hospital); 
-8.	Yi Yang (Department of Emergency Medicine, The Second Hospital of Jiaxing); 
-9.	Xiaohong Jin (Department of Emergency Medicine, The Affiliated Wenling Hospital of Wenzhou Medical University); 
-10.	Min Yang (The 2nd Department of Intensive Care Unit, the Second Affiliated Hospital of Anhui Medical University); 
-11.	Chunmei Gui, Yingpu Yuan (Department of Critical Care Medicine, The First People’s Hospital of Changde City); 
-12.	Guangtao Dong (Department of Emergency Medicine, the First Affiliated Hospital of Harbin Medical University); 
+- Yucai Hong, Lifeng Xing, Zhongheng Zhang (Sir Run Run Shaw Hospital, Zhejiang University School of Medicine);
+- Bin Sun (Department of emergency medicine, Binzhou Medical University Hospital);
+-	Senjun Jin (Department of Emergency, Zhejiang Provincial People’s Hospital, People’s Hospital of Hangzhou Medical College); 
+-	Huiheng Liu, Yujing Sun (Emergency Department, Zhongshan Hospital of Xiamen University, Xiamen, Fujian, People’s Republic of China);
+-	Hongying Ni, Kun Chen (Department of Critical Care Medicine, Affiliated Jinhua Hospital, Zhejiang University School of Medicine); 
+-	Lin Chen, Minfeng Tong (Department of neurosurgery, Affiliated Jinhua Hospital, Zhejiang University School of Medicine)
+-	Jian Sun (Department of Critical Care Medicine, Lishui Center Hospital); 
+-	Yi Yang (Department of Emergency Medicine, The Second Hospital of Jiaxing); 
+-	Xiaohong Jin (Department of Emergency Medicine, The Affiliated Wenling Hospital of Wenzhou Medical University); 
+-	Min Yang (The 2nd Department of Intensive Care Unit, the Second Affiliated Hospital of Anhui Medical University); 
+-	Chunmei Gui, Yingpu Yuan (Department of Critical Care Medicine, The First People’s Hospital of Changde City); 
+-	Guangtao Dong (Department of Emergency Medicine, the First Affiliated Hospital of Harbin Medical University); 
 13.	Weizhong Zeng, Jing Zeng (Department of critical care medicine, Zhuzhou central hospital); 
 14.	Guoxin Hu, Lujun Qiao (Emergency Department, Shengli Oilfield Central Hospital); 
 15.	Jinhua Wang, Yonglin Xi (Department of critical care medicine, the Second Affiliated Hospital of Xi’an Medical University); 
