@@ -1,5 +1,6 @@
-![image](https://github.com/zh-zhang1984/CMAISE/assets/22423040/3a41f0aa-2526-4581-9e0a-80de3e120983)
-![Alt text](/Screenshot%202024-05-26%20at%2008.05.04.png)
+
+<img width="1447" alt="CMAISElogo" src="https://github.com/zh-zhang1984/CMAISE/assets/22423040/90f29365-50af-4994-be32-57e664dc10b5">
+
 
 # CMAISE (Chinese Multi-omics Advances In SEpsis)
 
