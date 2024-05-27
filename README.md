@@ -1,4 +1,4 @@
-
+![image](https://github.com/zh-zhang1984/CMAISE/assets/22423040/3a41f0aa-2526-4581-9e0a-80de3e120983)
 ![Alt text](/Screenshot%202024-05-26%20at%2008.05.04.png)
 
 # CMAISE (Chinese Multi-omics Advances In SEpsis)
@@ -27,21 +27,21 @@ CMAISE-v1.0版本数据集已经公开发布，秉承数据利用最大化原则
 
 ## 已发表的文献：
 
-Yang J, Huang J, Hong Y, Zhang Z; for the CMAISE consortium. Subphenotypes in critical illness: a priori biological rationale is key. Author's reply. Intensive Care Med. 2024 Feb;50(2):302-303. doi: 10.1007/s00134-023-07316-0. Epub 2024 Jan 18. PMID: 38236290.
+> Yang J, Huang J, Hong Y, Zhang Z; for the CMAISE consortium. Subphenotypes in critical illness: a priori biological rationale is key. Author's reply. Intensive Care Med. 2024 Feb;50(2):302-303. doi: 10.1007/s00134-023-07316-0. Epub 2024 Jan 18. PMID: 38236290.
 
-Zhang Z, Chen L, Liu X, Yang J, Huang J, Yang Q, Hu Q, Jin K, Celi LA, Hong Y. Exploring disease axes as an alternative to distinct clusters for characterizing sepsis heterogeneity. Intensive Care Med. 2023 Nov;49(11):1349-1359. doi: 10.1007/s00134-023-07226-1. Epub 2023 Oct 4. PMID: 37792053.
+> Zhang Z, Chen L, Liu X, Yang J, Huang J, Yang Q, Hu Q, Jin K, Celi LA, Hong Y. Exploring disease axes as an alternative to distinct clusters for characterizing sepsis heterogeneity. Intensive Care Med. 2023 Nov;49(11):1349-1359. doi: 10.1007/s00134-023-07226-1. Epub 2023 Oct 4. PMID: 37792053.
 
-Jin S, Chen L, Chen K, Hu C, Hu S, Zhang Z. Establishment of a Chinese critical care database from electronic healthcare records in a tertiary care medical center. Sci Data. 2023 Jan 23;10(1):49. doi: 10.1038/s41597-023-01952-3. PMID: 36690650; PMCID: PMC9870864.
+> Jin S, Chen L, Chen K, Hu C, Hu S, Zhang Z. Establishment of a Chinese critical care database from electronic healthcare records in a tertiary care medical center. Sci Data. 2023 Jan 23;10(1):49. doi: 10.1038/s41597-023-01952-3. PMID: 36690650; PMCID: PMC9870864.
 
-Zhang Z, Chen L, Liu H, Sun Y, Shui P, Gao J, Wang D, Jiang H, Li Y, Chen K, Hong Y; CMAISE Consortium. Gene signature for the prediction of the trajectories of sepsis-induced acute kidney injury. Crit Care. 2022 Dec 21;26(1):398. doi: 10.1186/s13054-022-04234-3. PMID: 36544199; PMCID: PMC9773539.
+> Zhang Z, Chen L, Liu H, Sun Y, Shui P, Gao J, Wang D, Jiang H, Li Y, Chen K, Hong Y; CMAISE Consortium. Gene signature for the prediction of the trajectories of sepsis-induced acute kidney injury. Crit Care. 2022 Dec 21;26(1):398. doi: 10.1186/s13054-022-04234-3. PMID: 36544199; PMCID: PMC9773539.
 
-Hong Y, Chen L, Sun J, Xing L, Yang Y, Jin X, Cai H, Dong L, Zhou L, Zhang Z. Single-cell transcriptome profiling reveals heterogeneous neutrophils with prognostic values in sepsis. iScience. 2022 Oct 7;25(11):105301. doi: 10.1016/j.isci.2022.105301. PMID: 36304125; PMCID: PMC9593767.
+> Hong Y, Chen L, Sun J, Xing L, Yang Y, Jin X, Cai H, Dong L, Zhou L, Zhang Z. Single-cell transcriptome profiling reveals heterogeneous neutrophils with prognostic values in sepsis. iScience. 2022 Oct 7;25(11):105301. doi: 10.1016/j.isci.2022.105301. PMID: 36304125; PMCID: PMC9593767.
 
-Zhang Z, Chen L, Xu P, Wang Q, Zhang J, Chen K, Clements CM, Celi LA, Herasevich V, Hong Y. Effectiveness of automated alerting system compared to usual care for the management of sepsis. NPJ Digit Med. 2022 Jul 19;5(1):101. doi: 10.1038/s41746-022-00650-5. PMID: 35854120; PMCID: PMC9296632.
+> Zhang Z, Chen L, Xu P, Wang Q, Zhang J, Chen K, Clements CM, Celi LA, Herasevich V, Hong Y. Effectiveness of automated alerting system compared to usual care for the management of sepsis. NPJ Digit Med. 2022 Jul 19;5(1):101. doi: 10.1038/s41746-022-00650-5. PMID: 35854120; PMCID: PMC9296632.
 
-Chen L, Jin S, Yang M, Gui C, Yuan Y, Dong G, Zeng W, Zeng J, Hu G, Qiao L, Wang J, Xi Y, Sun J, Wang N, Wang M, Xing L, Yang Y, Teng Y, Hou J, Bi Q, Cai H, Zhang G, Hong Y, Zhang Z. Integrated Single Cell and Bulk RNA-Seq Analysis Revealed Immunomodulatory Effects of Ulinastatin in Sepsis: A Multicenter Cohort Study. Front Immunol. 2022 May 11;13:882774. doi: 10.3389/fimmu.2022.882774. PMID: 35634310; PMCID: PMC9130465.
+> Chen L, Jin S, Yang M, Gui C, Yuan Y, Dong G, Zeng W, Zeng J, Hu G, Qiao L, Wang J, Xi Y, Sun J, Wang N, Wang M, Xing L, Yang Y, Teng Y, Hou J, Bi Q, Cai H, Zhang G, Hong Y, Zhang Z. Integrated Single Cell and Bulk RNA-Seq Analysis Revealed Immunomodulatory Effects of Ulinastatin in Sepsis: A Multicenter Cohort Study. Front Immunol. 2022 May 11;13:882774. doi: 10.3389/fimmu.2022.882774. PMID: 35634310; PMCID: PMC9130465.
 
-Xu P, Chen L, Zhu Y, Yu S, Chen R, Huang W, Wu F, Zhang Z. Critical Care Database Comprising Patients With Infection. Front Public Health. 2022 Mar 17;10:852410. doi: 10.3389/fpubh.2022.852410. PMID: 35372245; PMCID: PMC8968758.
+> Xu P, Chen L, Zhu Y, Yu S, Chen R, Huang W, Wu F, Zhang Z. Critical Care Database Comprising Patients With Infection. Front Public Health. 2022 Mar 17;10:852410. doi: 10.3389/fpubh.2022.852410. PMID: 35372245; PMCID: PMC8968758.
 
 
 ## CMAISE-v1.0的参与单位及主要研究者如下（排名不分先后）
@@ -72,7 +72,7 @@ Xu P, Chen L, Zhu Y, Yu S, Chen R, Huang W, Wu F, Zhang Z. Critical Care Databas
 25.	Junxia Hou (Department of critical care medicine, Xian Changan District Hospital, Xi'an, China)
 26.	Yan Teng (Department of critical care medicine, the first affiliated hospital of Xi'an Jiaotong University, Xi'an China)
 27.	Ping Xu, Zhitao Zhong, Lingxia Cheng (Emergency Department, Zigong Fourth People's Hospital, Zigong, Sichuan, China);
-28.	Binshu wang (hainan)
+28.	Binshu wang (Department of Pathology, The Second Affiliated Hospital of Hainan Medical University, Haikou)
 29.	Pan Pan (College of Pulmonary & Critical Care Medicine, 8th Medical Center, Chinese PLA General Hospital, Beijing, China)
 30.	Xuandong jiang, Weimin Zhang (Intensive Care Unit, Dongyang Hospital of Wenzhou Medical University, Jinhua, Zhejiang, China)
 31.	Zhanwei Ruan, Jie Chen (Department of Emergency, Third Affiliated Hospital, Wenzhou Medical University, Wenzhou China)
