@@ -11,7 +11,8 @@ CMAISE项目的数据和成果对全球医学研究者开放，有助于推动�
 
 CMAISE-v1.0版本数据集已经公开发布，秉承数据利用最大化原则，我们希望有更多的研究团队参与数据的挖掘，采用多中心、多学科众筹的方式，共同为脓毒症诊疗的进步贡献力量。
 
-已发表的文献：
+##已发表的文献：
+
 Yang J, Huang J, Hong Y, Zhang Z; for the CMAISE consortium. Subphenotypes in critical illness: a priori biological rationale is key. Author's reply. Intensive Care Med. 2024 Feb;50(2):302-303. doi: 10.1007/s00134-023-07316-0. Epub 2024 Jan 18. PMID: 38236290.
 Zhang Z, Chen L, Liu X, Yang J, Huang J, Yang Q, Hu Q, Jin K, Celi LA, Hong Y. Exploring disease axes as an alternative to distinct clusters for characterizing sepsis heterogeneity. Intensive Care Med. 2023 Nov;49(11):1349-1359. doi: 10.1007/s00134-023-07226-1. Epub 2023 Oct 4. PMID: 37792053.
 Jin S, Chen L, Chen K, Hu C, Hu S, Zhang Z. Establishment of a Chinese critical care database from electronic healthcare records in a tertiary care medical center. Sci Data. 2023 Jan 23;10(1):49. doi: 10.1038/s41597-023-01952-3. PMID: 36690650; PMCID: PMC9870864.
@@ -22,7 +23,7 @@ Chen L, Jin S, Yang M, Gui C, Yuan Y, Dong G, Zeng W, Zeng J, Hu G, Qiao L, Wang
 Xu P, Chen L, Zhu Y, Yu S, Chen R, Huang W, Wu F, Zhang Z. Critical Care Database Comprising Patients With Infection. Front Public Health. 2022 Mar 17;10:852410. doi: 10.3389/fpubh.2022.852410. PMID: 35372245; PMCID: PMC8968758.
 
 
-CMAISE-v1.0的参与单位及主要研究者如下（排名不分先后）
+##CMAISE-v1.0的参与单位及主要研究者如下（排名不分先后）
 1.	Yucai Hong, Lifeng Xing, Zhongheng Zhang (Sir Run Run Shaw Hospital, Zhejiang University School of Medicine); 
 2.	Bin Sun (Department of emergency medicine, Binzhou Medical University Hospital);
 3.	Senjun Jin (Department of Emergency, Zhejiang Provincial People’s Hospital, People’s Hospital of Hangzhou Medical College); 
