@@ -1,12 +1,63 @@
 # CMAISE
+
 Chinese Multi-omics Advances In Sepsis
 中国多组学脓毒症进展研究（Chinese Multi-omics Advances In Sepsis，简称CMAISE）最早创立于2020年，是一个专注于脓毒症的多中心、多组学研究项目。该项目通过收集脓毒症患者的临床数据和生物样本，运用基因组学、蛋白质组学、代谢组学等多组学技术，深入研究脓毒症的分子机制和临床特征。
 
 CMAISE项目的目的在于通过多维度的数据分析，揭示脓毒症的生物标志物和潜在治疗靶点，以期提高脓毒症的早期诊断率、优化治疗方案，并改善患者的临床预后。项目涉及大量的临床信息收集，包括但不限于患者的人口统计学信息、临床表现、实验室检测结果、治疗方案及治疗反应等。
 
-根据搜索结果，CMAISE项目已经发表了多篇研究论文，涉及脓毒症引起的急性肾损伤（AKI）的基因表达特征，以及脓毒症患者的临床数据集和蛋白质组学数据的发布。这些研究成果不仅增进了对脓毒症病理生理学的理解，也为临床脓毒症治疗提供了潜在方向。
+CMAISE项目已经发表了多篇研究论文，涉及脓毒症引起的急性肾损伤（AKI）的基因表达特征，以及脓毒症患者的临床数据集和蛋白质组学数据的发布。这些研究成果不仅增进了对脓毒症病理生理学的理解，也为临床脓毒症治疗提供了潜在方向。
 
 CMAISE项目的数据和成果对全球医学研究者开放，有助于推动脓毒症研究的国际合作与知识共享，对提升脓毒症的全球诊疗水平具有重要意义。
 
 CMAISE-v1.0版本数据集已经公开发布，秉承数据利用最大化原则，我们希望有更多的研究团队参与数据的挖掘，采用多中心、多学科众筹的方式，共同为脓毒症诊疗的进步贡献力量。
-![image](https://github.com/zh-zhang1984/CMAISE/assets/22423040/5114049e-bd94-4ae6-8ea8-3d20b3a755a0)
+
+已发表的文献：
+Yang J, Huang J, Hong Y, Zhang Z; for the CMAISE consortium. Subphenotypes in critical illness: a priori biological rationale is key. Author's reply. Intensive Care Med. 2024 Feb;50(2):302-303. doi: 10.1007/s00134-023-07316-0. Epub 2024 Jan 18. PMID: 38236290.
+Zhang Z, Chen L, Liu X, Yang J, Huang J, Yang Q, Hu Q, Jin K, Celi LA, Hong Y. Exploring disease axes as an alternative to distinct clusters for characterizing sepsis heterogeneity. Intensive Care Med. 2023 Nov;49(11):1349-1359. doi: 10.1007/s00134-023-07226-1. Epub 2023 Oct 4. PMID: 37792053.
+Jin S, Chen L, Chen K, Hu C, Hu S, Zhang Z. Establishment of a Chinese critical care database from electronic healthcare records in a tertiary care medical center. Sci Data. 2023 Jan 23;10(1):49. doi: 10.1038/s41597-023-01952-3. PMID: 36690650; PMCID: PMC9870864.
+Zhang Z, Chen L, Liu H, Sun Y, Shui P, Gao J, Wang D, Jiang H, Li Y, Chen K, Hong Y; CMAISE Consortium. Gene signature for the prediction of the trajectories of sepsis-induced acute kidney injury. Crit Care. 2022 Dec 21;26(1):398. doi: 10.1186/s13054-022-04234-3. PMID: 36544199; PMCID: PMC9773539.
+Hong Y, Chen L, Sun J, Xing L, Yang Y, Jin X, Cai H, Dong L, Zhou L, Zhang Z. Single-cell transcriptome profiling reveals heterogeneous neutrophils with prognostic values in sepsis. iScience. 2022 Oct 7;25(11):105301. doi: 10.1016/j.isci.2022.105301. PMID: 36304125; PMCID: PMC9593767.
+Zhang Z, Chen L, Xu P, Wang Q, Zhang J, Chen K, Clements CM, Celi LA, Herasevich V, Hong Y. Effectiveness of automated alerting system compared to usual care for the management of sepsis. NPJ Digit Med. 2022 Jul 19;5(1):101. doi: 10.1038/s41746-022-00650-5. PMID: 35854120; PMCID: PMC9296632.
+Chen L, Jin S, Yang M, Gui C, Yuan Y, Dong G, Zeng W, Zeng J, Hu G, Qiao L, Wang J, Xi Y, Sun J, Wang N, Wang M, Xing L, Yang Y, Teng Y, Hou J, Bi Q, Cai H, Zhang G, Hong Y, Zhang Z. Integrated Single Cell and Bulk RNA-Seq Analysis Revealed Immunomodulatory Effects of Ulinastatin in Sepsis: A Multicenter Cohort Study. Front Immunol. 2022 May 11;13:882774. doi: 10.3389/fimmu.2022.882774. PMID: 35634310; PMCID: PMC9130465.
+Xu P, Chen L, Zhu Y, Yu S, Chen R, Huang W, Wu F, Zhang Z. Critical Care Database Comprising Patients With Infection. Front Public Health. 2022 Mar 17;10:852410. doi: 10.3389/fpubh.2022.852410. PMID: 35372245; PMCID: PMC8968758.
+
+
+CMAISE-v1.0的参与单位及主要研究者如下（排名不分先后）
+1.	Yucai Hong, Lifeng Xing, Zhongheng Zhang (Sir Run Run Shaw Hospital, Zhejiang University School of Medicine); 
+2.	Bin Sun (Department of emergency medicine, Binzhou Medical University Hospital);
+3.	Senjun Jin (Department of Emergency, Zhejiang Provincial People’s Hospital, People’s Hospital of Hangzhou Medical College); 
+4.	Huiheng Liu, Yujing Sun (Emergency Department, Zhongshan Hospital of Xiamen University, Xiamen, Fujian, People’s Republic of China);
+5.	Hongying Ni, Kun Chen (Department of Critical Care Medicine, Affiliated Jinhua Hospital, Zhejiang University School of Medicine); 
+6.	Lin Chen, Minfeng Tong (Department of neurosurgery, Affiliated Jinhua Hospital, Zhejiang University School of Medicine)
+7.	Jian Sun (Department of Critical Care Medicine, Lishui Center Hospital); 
+8.	Yi Yang (Department of Emergency Medicine, The Second Hospital of Jiaxing); 
+9.	Xiaohong Jin (Department of Emergency Medicine, The Affiliated Wenling Hospital of Wenzhou Medical University); 
+10.	Min Yang (The 2nd Department of Intensive Care Unit, the Second Affiliated Hospital of Anhui Medical University); 
+11.	Chunmei Gui, Yingpu Yuan (Department of Critical Care Medicine, The First People’s Hospital of Changde City); 
+12.	Guangtao Dong (Department of Emergency Medicine, the First Affiliated Hospital of Harbin Medical University); 
+13.	Weizhong Zeng, Jing Zeng (Department of critical care medicine, Zhuzhou central hospital); 
+14.	Guoxin Hu, Lujun Qiao (Emergency Department, Shengli Oilfield Central Hospital); 
+15.	Jinhua Wang, Yonglin Xi (Department of critical care medicine, the Second Affiliated Hospital of Xi’an Medical University); 
+16.	Nan Wang, Minmin Wang (Department of critical care medicine, The Fourth Affiliated Hospital of Anhui Medical University, Anhui Medical University); 
+17.	Yan Teng, Junxia Hou (Department of critical care medicine, the first affiliated hospital of Xi'an Jiaotong University); 
+18.	Qiaojie Bi (Department of emergency, Qingdao municipal hospital, Qingdao university school of medicine); 
+19.	Gengsheng Zhang (Department of Critical Care Medicine, Second Affiliated Hospital, Zhejiang University School of Medicine); 
+20.	Junru Dai, Shaojun Zheng (Longyou People’s hospital, Longyou, Zhejiang);
+21.	Jian Gao, Decong Wang (Department of Critical Medicine, Pi County Peoples Hospital, Chengdu, China);
+22.	Huilin Jiang, Yanling Li (Emergency Department, The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, People's Republic of China);
+23.	Decong Wang (Department of Critical Medicine, Pi County Peoples Hospital, Chengdu, People's Republic of China);
+24.	Pengfei Shui (Department of Emergency, People's Hospital of Anji, Anji County, Zhejiang, People's Republic of China);
+25.	Junxia Hou (Department of critical care medicine, Xian Changan District Hospital, Xi'an, China)
+26.	Yan Teng (Department of critical care medicine, the first affiliated hospital of Xi'an Jiaotong University, Xi'an China)
+27.	Ping Xu, Zhitao Zhong, Lingxia Cheng (Emergency Department, Zigong Fourth People's Hospital, Zigong, Sichuan, China);
+28.	Binshu wang (hainan)
+29.	Pan Pan (College of Pulmonary & Critical Care Medicine, 8th Medical Center, Chinese PLA General Hospital, Beijing, China)
+30.	Xuandong jiang, Weimin Zhang (Intensive Care Unit, Dongyang Hospital of Wenzhou Medical University, Jinhua, Zhejiang, China)
+31.	Zhanwei Ruan, Jie Chen (Department of Emergency, Third Affiliated Hospital, Wenzhou Medical University, Wenzhou China)
+32.	Ping Rao (Emergency Department ,The First Affiliated Hospital of Hainan Medical University)
+33.	Yuetian Yu (Department of Critical Care Medicine, Ren Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China)
+34.	Xianglin Meng (Department of Critical Care Medicine, The First Affiliated Hospital of Harbin Medical University, Harbin, 150001, P. R. China)
+35.	Wan-jie Gu, Hai-Yan Yin (Department of Intensive Care Unit, The First Affiliated Hospital of Jinan University, Guangzhou, China)
+36.	Shaojiang Zheng, Shaowen Cheng, Lina Xian, Zhihao Xie (The First Affiliated Hospital of Hainan Medical University, Haikou 570102, China)
+37.	Bingshu Wang (The Second Affiliated Hospital of Hainan Medical University, Haikou, 570311, China)
+38.	Zhenling Wan (Hainan Women and Children Medical Center, Hainan Medical University, Haikou, 571100, China)
