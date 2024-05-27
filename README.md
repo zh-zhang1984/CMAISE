@@ -16,14 +16,14 @@ CMAISE-v1.0版本数据集已经公开发布，秉承数据利用最大化原则
 
 ## 我们的资源
 ### 1、CMAISE数据集-v1.0
-该数据集包含了35家医学中心的脓毒症多组学数据，包括转录组学、蛋白质组学、代谢组学、单细胞数据等（总的项目编号：PRJCA006118）。其中[临床数据](https://ngdc.cncb.ac.cn/omix/release/OMIX005606)；[转录组学数据](https://ngdc.cncb.ac.cn/gsa-human/browse/HRA002335),其中包含多个批次数据（HRA002335、HRA006522、HRA007067、HRA001950、HRA001947、HRA001178）；[Olink蛋白质组学]（https://ngdc.cncb.ac.cn/omix/release/OMIX006238）；[DIA蛋白质组学]（https://ngdc.cncb.ac.cn/omix/release/OMIX005608）；[单细胞测序数据]（https://ngdc.cncb.ac.cn/omix/release/OMIX005600）；[单细胞测序临床数据]（https://ngdc.cncb.ac.cn/omix/release/OMIX005601）；其中包含碱基序列的原始数据都是HRA开头，而分析后的表达矩阵OMIX开头。
+该数据集包含了35家医学中心的脓毒症多组学数据，包括转录组学、蛋白质组学、代谢组学、单细胞数据等（总的项目编号：PRJCA006118）。其中[临床数据](https://ngdc.cncb.ac.cn/omix/release/OMIX005606)；[转录组学数据](https://ngdc.cncb.ac.cn/gsa-human/browse/HRA002335),其中包含多个批次数据（HRA002335、HRA006522、HRA007067、HRA001950、HRA001947、HRA001178）；[Olink蛋白质组学](https://ngdc.cncb.ac.cn/omix/release/OMIX006238)；[DIA蛋白质组学](https://ngdc.cncb.ac.cn/omix/release/OMIX005608)；[单细胞测序数据](https://ngdc.cncb.ac.cn/omix/release/OMIX005600）；[单细胞测序临床数据](https://ngdc.cncb.ac.cn/omix/release/OMIX005601）；其中包含碱基序列的原始数据都是HRA开头，而分析后的表达矩阵OMIX开头。
 ### 2、急诊电子病历数据集
-该数据集包含了急诊就诊收住EICU的危重症患者，包含了除文字以外的各类电子病历信息。详细内容科[参考]（https://www.nature.com/articles/s41597-023-01952-3）；数据集[链接]（https://ngdc.cncb.ac.cn/omix/release/OMIX005817）
+该数据集包含了急诊就诊收住EICU的危重症患者，包含了除文字以外的各类电子病历信息。详细内容科[参考](https://www.nature.com/articles/s41597-023-01952-3)；数据集[链接](https://ngdc.cncb.ac.cn/omix/release/OMIX005817)
 ### 3、脓毒症胸部CT数据集（待完善。。。）
 ### 4、ICU感染数据集
-该数据集包含了入住ICU合并感染的患者，[数据集描述]（https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.852410/full），数据集[链接]（https://ngdc.cncb.ac.cn/omix/view/OMIX538）。
+该数据集包含了入住ICU合并感染的患者，[数据集描述](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.852410/full），数据集[链接](https://ngdc.cncb.ac.cn/omix/view/OMIX538）。
 ### 5、心衰数据集
-该数据集主要包含了心衰患者数据，包含了结局预后，心超指标等，详细数据描述[参考]（https://www.nature.com/articles/s41597-021-00835-9）；数据集[链接]（https://physionet.org/content/heart-failure-zigong/1.2/）
+该数据集主要包含了心衰患者数据，包含了结局预后，心超指标等，详细数据描述[参考](https://www.nature.com/articles/s41597-021-00835-9）；数据集[链接](https://physionet.org/content/heart-failure-zigong/1.2/）
 
 
 ## 已发表的文献：
