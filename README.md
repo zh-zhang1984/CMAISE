@@ -1,4 +1,4 @@
-# CMAISE
+![image](https://github.com/zh-zhang1984/CMAISE/assets/22423040/d594c2e7-e3af-43a6-91bb-a99461cb347a)# CMAISE
 
 Chinese Multi-omics Advances In Sepsis
 中国多组学脓毒症进展研究（Chinese Multi-omics Advances In Sepsis，简称CMAISE）最早创立于2020年，是一个专注于脓毒症的多中心、多组学研究项目。该项目通过收集脓毒症患者的临床数据和生物样本，运用基因组学、蛋白质组学、代谢组学等多组学技术，深入研究脓毒症的分子机制和临床特征。
@@ -11,7 +11,19 @@ CMAISE项目的数据和成果对全球医学研究者开放，有助于推动�
 
 CMAISE-v1.0版本数据集已经公开发布，秉承数据利用最大化原则，我们希望有更多的研究团队参与数据的挖掘，采用多中心、多学科众筹的方式，共同为脓毒症诊疗的进步贡献力量。
 
-##已发表的文献：
+## 我们的资源
+### 1、CMAISE数据集-v1.0
+该数据集包含了35家医学中心的脓毒症多组学数据，包括转录组学、蛋白质组学、代谢组学、单细胞数据等（总的项目编号：PRJCA006118）。其中临床数据（https://ngdc.cncb.ac.cn/omix/release/OMIX005606）；转录组学数据（https://ngdc.cncb.ac.cn/gsa-human/browse/HRA002335）,其中包含多个批次数据（HRA002335、HRA006522、HRA007067、HRA001950、HRA001947、HRA001178）；Olink蛋白质组学（https://ngdc.cncb.ac.cn/omix/release/OMIX006238）；DIA蛋白质组学（https://ngdc.cncb.ac.cn/omix/release/OMIX005608）；单细胞测序数据（https://ngdc.cncb.ac.cn/omix/release/OMIX005600）；单细胞测序临床数据（https://ngdc.cncb.ac.cn/omix/release/OMIX005601）；其中包含碱基序列的原始数据都是HRA开头，而分析后的表达矩阵OMIX开头。
+### 2、急诊电子病历数据集
+该数据集包含了急诊就诊收住EICU的危重症患者，包含了除文字以外的各类电子病历信息。详细内容科参考（https://www.nature.com/articles/s41597-023-01952-3）；数据集链接（https://ngdc.cncb.ac.cn/omix/release/OMIX005817）
+### 3、脓毒症胸部CT数据集（待完善。。。）
+### 4、ICU感染数据集
+该数据集包含了入住ICU合并感染的患者，数据集描述（https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.852410/full），数据集链接（https://ngdc.cncb.ac.cn/omix/view/OMIX538）。
+### 5、心衰数据集
+该数据集主要包含了心衰患者数据，包含了结局预后，心超指标等，详细数据描述参考（https://www.nature.com/articles/s41597-021-00835-9）；数据集链接（https://physionet.org/content/heart-failure-zigong/1.2/）
+
+
+## 已发表的文献：
 
 Yang J, Huang J, Hong Y, Zhang Z; for the CMAISE consortium. Subphenotypes in critical illness: a priori biological rationale is key. Author's reply. Intensive Care Med. 2024 Feb;50(2):302-303. doi: 10.1007/s00134-023-07316-0. Epub 2024 Jan 18. PMID: 38236290.
 Zhang Z, Chen L, Liu X, Yang J, Huang J, Yang Q, Hu Q, Jin K, Celi LA, Hong Y. Exploring disease axes as an alternative to distinct clusters for characterizing sepsis heterogeneity. Intensive Care Med. 2023 Nov;49(11):1349-1359. doi: 10.1007/s00134-023-07226-1. Epub 2023 Oct 4. PMID: 37792053.
@@ -23,7 +35,7 @@ Chen L, Jin S, Yang M, Gui C, Yuan Y, Dong G, Zeng W, Zeng J, Hu G, Qiao L, Wang
 Xu P, Chen L, Zhu Y, Yu S, Chen R, Huang W, Wu F, Zhang Z. Critical Care Database Comprising Patients With Infection. Front Public Health. 2022 Mar 17;10:852410. doi: 10.3389/fpubh.2022.852410. PMID: 35372245; PMCID: PMC8968758.
 
 
-##CMAISE-v1.0的参与单位及主要研究者如下（排名不分先后）
+## CMAISE-v1.0的参与单位及主要研究者如下（排名不分先后）
 1.	Yucai Hong, Lifeng Xing, Zhongheng Zhang (Sir Run Run Shaw Hospital, Zhejiang University School of Medicine); 
 2.	Bin Sun (Department of emergency medicine, Binzhou Medical University Hospital);
 3.	Senjun Jin (Department of Emergency, Zhejiang Provincial People’s Hospital, People’s Hospital of Hangzhou Medical College); 
