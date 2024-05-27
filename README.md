@@ -1,9 +1,8 @@
 
 ![Alt text](/Screenshot%202024-05-26%20at%2008.05.04.png)
 
-# CMAISE
+# CMAISE (Chinese Multi-omics Advances In SEpsis)
 
-Chinese Multi-omics Advances In Sepsis
 中国多组学脓毒症进展研究（Chinese Multi-omics Advances In Sepsis，简称CMAISE）最早创立于2020年，是一个专注于脓毒症的多中心、多组学研究项目。该项目通过收集脓毒症患者的临床数据和生物样本，运用基因组学、蛋白质组学、代谢组学等多组学技术，深入研究脓毒症的分子机制和临床特征。
 
 CMAISE项目的目的在于通过多维度的数据分析，揭示脓毒症的生物标志物和潜在治疗靶点，以期提高脓毒症的早期诊断率、优化治疗方案，并改善患者的临床预后。项目涉及大量的临床信息收集，包括但不限于患者的人口统计学信息、临床表现、实验室检测结果、治疗方案及治疗反应等。
