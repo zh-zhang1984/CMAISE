@@ -21,9 +21,9 @@ CMAISE-v1.0版本数据集已经公开发布，秉承数据利用最大化原则
 该数据集包含了急诊就诊收住EICU的危重症患者，包含了除文字以外的各类电子病历信息。详细内容科[参考](https://www.nature.com/articles/s41597-023-01952-3)；数据集[链接](https://ngdc.cncb.ac.cn/omix/release/OMIX005817)
 ### 3、脓毒症胸部CT数据集（待完善。。。）
 ### 4、ICU感染数据集
-该数据集包含了入住ICU合并感染的患者，[数据集描述](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.852410/full），数据集[链接](https://ngdc.cncb.ac.cn/omix/view/OMIX538）。
+该数据集包含了入住ICU合并感染的患者，[数据集描述](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.852410/full)，数据集[链接](https://ngdc.cncb.ac.cn/omix/view/OMIX538)。
 ### 5、心衰数据集
-该数据集主要包含了心衰患者数据，包含了结局预后，心超指标等，详细数据描述[参考](https://www.nature.com/articles/s41597-021-00835-9）；数据集[链接](https://physionet.org/content/heart-failure-zigong/1.2/）
+该数据集主要包含了心衰患者数据，包含了结局预后，心超指标等，详细数据描述[参考](https://www.nature.com/articles/s41597-021-00835-9)；数据集[链接](https://physionet.org/content/heart-failure-zigong/1.2/)
 
 
 ## 已发表的文献：
