@@ -61,23 +61,23 @@ CMAISE-v1.0版本数据集已经公开发布，秉承数据利用最大化原则
 -	Weizhong Zeng, Jing Zeng; *Department of critical care medicine, Zhuzhou central hospital*; 
 -	Guoxin Hu, Lujun Qiao; *Emergency Department, Shengli Oilfield Central Hospital*; 
 -	Jinhua Wang, Yonglin Xi; *Department of critical care medicine, the Second Affiliated Hospital of Xi’an Medical University*; 
--	Nan Wang, Minmin Wang (Department of critical care medicine, The Fourth Affiliated Hospital of Anhui Medical University, Anhui Medical University); 
--	Yan Teng, Junxia Hou (Department of critical care medicine, the first affiliated hospital of Xi'an Jiaotong University); 
--	Qiaojie Bi (Department of emergency, Qingdao municipal hospital, Qingdao university school of medicine); 
--	Gengsheng Zhang (Department of Critical Care Medicine, Second Affiliated Hospital, Zhejiang University School of Medicine); 
--	Junru Dai, Shaojun Zheng (Longyou People’s hospital, Longyou, Zhejiang);
--	Jian Gao, Decong Wang (Department of Critical Medicine, Pi County Peoples Hospital, Chengdu, China);
--	Huilin Jiang, Yanling Li (Emergency Department, The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, People's Republic of China);
--	Decong Wang (Department of Critical Medicine, Pi County Peoples Hospital, Chengdu, People's Republic of China);
--	Pengfei Shui (Department of Emergency, People's Hospital of Anji, Anji County, Zhejiang, People's Republic of China);
--	Junxia Hou (Department of critical care medicine, Xian Changan District Hospital, Xi'an, China)
--	Yan Teng (Department of critical care medicine, the first affiliated hospital of Xi'an Jiaotong University, Xi'an China)
--	Ping Xu, Zhitao Zhong, Lingxia Cheng (Emergency Department, Zigong Fourth People's Hospital, Zigong, Sichuan, China);
--	Binshu wang (Department of Pathology, The Second Affiliated Hospital of Hainan Medical University, Haikou)
--	Pan Pan (College of Pulmonary & Critical Care Medicine, 8th Medical Center, Chinese PLA General Hospital, Beijing, China)
--	Xuandong jiang, Weimin Zhang (Intensive Care Unit, Dongyang Hospital of Wenzhou Medical University, Jinhua, Zhejiang, China)
--	Zhanwei Ruan, Jie Chen (Department of Emergency, Third Affiliated Hospital, Wenzhou Medical University, Wenzhou China)
--	Ping Rao (Emergency Department ,The First Affiliated Hospital of Hainan Medical University)
+-	Nan Wang, Minmin Wang; *Department of critical care medicine, The Fourth Affiliated Hospital of Anhui Medical University, Anhui Medical University*; 
+-	Yan Teng, Junxia Hou; *Department of critical care medicine, the first affiliated hospital of Xi'an Jiaotong University*; 
+-	Qiaojie Bi; *Department of emergency, Qingdao municipal hospital, Qingdao university school of medicine*; 
+-	Gengsheng Zhang; *Department of Critical Care Medicine, Second Affiliated Hospital, Zhejiang University School of Medicine*; 
+-	Junru Dai, Shaojun Zheng; *Longyou People’s hospital, Longyou, Zhejiang*;
+-	Jian Gao, Decong Wang; *Department of Critical Medicine, Pi County Peoples Hospital, Chengdu, China*;
+-	Huilin Jiang, Yanling Li *Emergency Department, The Second Affiliated Hospital of Guangzhou Medical University, Guangzhou, People's Republic of China*;
+-	Decong Wang; *Department of Critical Medicine, Pi County Peoples Hospital, Chengdu, People's Republic of China);
+-	Pengfei Shui; *Department of Emergency, People's Hospital of Anji, Anji County, Zhejiang, People's Republic of China);
+-	Junxia Hou; *Department of critical care medicine, Xian Changan District Hospital, Xi'an, China*;
+-	Yan Teng; *Department of critical care medicine, the first affiliated hospital of Xi'an Jiaotong University, Xi'an China*;
+-	Ping Xu, Zhitao Zhong, Lingxia Cheng; *Emergency Department, Zigong Fourth People's Hospital, Zigong, Sichuan, China*;
+-	Binshu wang; *Department of Pathology, The Second Affiliated Hospital of Hainan Medical University, Haikou*;
+-	Pan Pan; *College of Pulmonary & Critical Care Medicine, 8th Medical Center, Chinese PLA General Hospital, Beijing, China*
+-	Xuandong jiang, Weimin Zhang; *Intensive Care Unit, Dongyang Hospital of Wenzhou Medical University, Jinhua, Zhejiang, China*
+-	Zhanwei Ruan, Jie Chen; *Department of Emergency, Third Affiliated Hospital, Wenzhou Medical University, Wenzhou China*
+-	Ping Rao; *Emergency Department ,The First Affiliated Hospital of Hainan Medical University*
 -	Yuetian Yu (Department of Critical Care Medicine, Ren Ji Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China)
 -	Xianglin Meng (Department of Critical Care Medicine, The First Affiliated Hospital of Harbin Medical University, Harbin, 150001, P. R. China)
 -	Wan-jie Gu, Hai-Yan Yin (Department of Intensive Care Unit, The First Affiliated Hospital of Jinan University, Guangzhou, China)
