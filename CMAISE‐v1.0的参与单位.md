@@ -1,3 +1,7 @@
+layout: page
+title: "CMAISE‐v1.0的参与单位"
+permalink: https://zh-zhang1984.github.io/CMAISE
+
 - **Yucai Hong**, **Lifeng Xing**, **Zhongheng Zhang**; *Department of Emergency medicine, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine*;
 - **Haiyan Yin**, **Wan-jie Gu**, **Fenzi Zhao**; *Department of Intensive Care Unit, The First Affiliated Hospital of Jinan University, 613 Huangpu Avenue West, Guangzhou, 510630, Guangdong Province, China*.
 - **Bin Sun**; *Department of emergency medicine, Binzhou Medical University Hospital*;
